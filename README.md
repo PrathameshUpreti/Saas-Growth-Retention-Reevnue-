@@ -1,5 +1,10 @@
 # Saas-Growth-Retention-Reevnue-
 
+## 📊 Dashboard Overview
+
+![Dashboard Overview](ss/Page-1.png)
+
+
 # 📌 Project Overview
 
 This project analyzes SaaS customer behavior and business performance using SQL and Power BI.
@@ -83,6 +88,7 @@ Linked churn and retention to revenue impact
 
 # 📊 Dashboard Pages
 # 🔹 Page 1: Growth & Revenue Overview
+![Dashboard Overview](ss/Page-1.png)
 
 KPI cards (Active Users, MRR, ARR, ARPU, Churn Rate)
 MRR trend
@@ -90,10 +96,12 @@ Churn trend
 Churn by subscription plan
 
 # 🔹 Page 2: Funnel Analysis
+![Dashboard 2](ss/Page-2.png)
 Funnel visualization (Visit → Paid)
 Conversion insights
 
 # 🔹 Page 3: Cohort Retention Analysis
+![Dashboard Overview](ss/Page-3.png)
 
 Cohort retention matrix (counts)
 Retention percentage heatmap
